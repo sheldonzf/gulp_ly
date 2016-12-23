@@ -1,0 +1,34 @@
+{
+  "name": "tuniu-site",
+  "version": "0.1.0",
+  "description": "site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mTuniu",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-react": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.3",
+    "del": "^1.2.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sass": "^2.0.2",
+    "gulp-tpl2js": "0.0.4",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4",
+    "gulp-git": "^1.2.4",
+    "proxy-middleware": "^0.13.0",
+    "gulp-seajs-transport":"",
+    "gulp-concat":""
+  },
+  "devDependencies": {
+    "gulp-scss": "^1.3.15",
+    "gulp-tpl2js": "0.0.4"
+  }
+}
